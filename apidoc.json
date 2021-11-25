@@ -1,0 +1,11 @@
+{
+    "name": "샘플 API DOCS",
+    "version": "0.0.1",
+    "description": "Sample API Docs",
+    "apidoc": {
+      "title": "layer1",
+      "url" : "https://layer1.dev/docs"
+    },
+    "useHostUrlAsSampleUrl": true,
+    "sampleUrl" : "https://layer1.dev/docs"
+  }
